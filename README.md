@@ -5,3 +5,4 @@ The above link is the full presentation on my paper, and this was a survey paper
 Moreover, there was an in-class presentation as you can see in the repository. 
 
 If you have any questions, please email me at bcswieder42@tntech.edu. 
+I made a 90 A on this project. 
